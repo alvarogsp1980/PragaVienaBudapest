@@ -1,10 +1,11 @@
 
 # :earth_africa: Circuito Praga, Budapest y Viena :earth_africa:
 
-Este viaje se ha planeado para **4 aventureros** :family: : 2 adultos de 43 años, 1 joven explorador de 15 años y otro aventurero en ciernes de 12 años. :boy: :boy:
-Aquí encontrarás las **fechas**, **horarios** y **medios de transporte** para completar la travesía.
+Este viaje se ha planeado para **4 aventureros**: 2 adultos :man: :woman: y dos niños :boy: :boy: de 15 y 12 años respectivamente
 
-## :airplane_departure: Itinerario Sugerido Más Económico con Horarios, Enlaces y Precios
+Aquí encontrarás las **fechas**, **horarios** y **medios de transporte** para completar el circuito.
+
+## 🗺️ Itinerario Sugerido Más Económico con Horarios, Enlaces y Precios
 
 | #   | Destino               | Medio      | Fecha y Hora de Salida | Llegada | Precio   | Enlace para Billetes                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | --------------------- | ---------- | ---------------------- | ------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
