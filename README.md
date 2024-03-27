@@ -5,7 +5,7 @@ Este viaje se ha planeado para **4 aventureros**: 2 adultos :man: :woman: y dos 
 
 Aquí encontrarás las **fechas**, **horarios** y **medios de transporte** para completar el circuito.
 
-## 🗺️ Itinerario Sugerido Más Económico con Horarios, Enlaces y Precios
+## 🗺️ Itinerario Sugerido más económico
 
 | #   | Destino               | Medio      | Fecha y Hora de Salida | Llegada | Precio   | Enlace para Billetes                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | --------------------- | ---------- | ---------------------- | ------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,8 +16,8 @@ Aquí encontrarás las **fechas**, **horarios** y **medios de transporte** para 
 
 ### :star: **Información Importante:** :star:
 
-- La aerolínea elegida para surcar los cielos en ambos viajes es **Iberia**.
-- Todos los vuelos (ida y vuelta) incluyen equipaje de mano y un tesoro en la bodega para los 4 valientes viajeros.
-- Elegimos los trenes por ser más veloces y económicos que los carros voladores y dragones de metal (coches y aviones).
-- ¿Aventureros nocturnos? Hay una **opción de tren nocturno** de Praga a Budapest. Parte el 22/07/2024 a las 21:26 y llega al nuevo amanecer a las 8:35. Para descubrir el precio, [envía un e-mail a la compañía aquí](https://losviajesdeclaudia.com/republica-checa/como-ir-de-praga-a-budapest-en-tren-nocturno/).
+- La aerolínea elegida para volar en ambos viajes es **Iberia**.
+- Todos los vuelos incluyen equipaje de mano y maleta en la bodega para los 4 viajeros.
+- Vamos en tren entre ciudades por ser más económico que el avión o coche.
+- Hay una **opción de tren nocturno** de Praga a Budapest. Parte el 22/07/2024 a las 21:26 y llega al dia siguiente a las 8:35. Para saber el precio, [envía un e-mail a la compañía aquí](https://losviajesdeclaudia.com/republica-checa/como-ir-de-praga-a-budapest-en-tren-nocturno/).
 
